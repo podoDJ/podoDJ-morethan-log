@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `podoDJ-morethan-log`,
+      name: `pododj-morthan-log`,
       href: "https://github.com/podoDJ/podoDJ-morethan-log",
     },
   ],
