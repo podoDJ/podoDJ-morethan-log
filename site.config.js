@@ -12,14 +12,15 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `podoDJ-morethan-log`,
+      href: "https://github.com/podoDJ/podoDJ-morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "podoDJ-morethan-log",
+    description: "welcome to podoDJ Blog!",
+    theme: "auto",
   },
 
   // CONFIG configration (required)
